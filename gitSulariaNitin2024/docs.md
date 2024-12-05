@@ -126,23 +126,3 @@ Finalmente, subimos los cambios fusionados al repositorio remoto:
 
 *   **git push origin main**: Sube los cambios de la rama **main** al repositorio remoto en GitHub.
     
-
-Parte 3: Buenas Prácticas
--------------------------
-
-### 1\. Realiza commits frecuentes
-
-Es recomendable realizar commits con frecuencia para mantener un historial claro de los cambios realizados en el proyecto.
-
-### 2\. Usa mensajes de commit descriptivos
-
-Los mensajes de commit deben ser claros y descriptivos para que otros colaboradores (o tú mismo en el futuro) puedan entender rápidamente qué cambios se realizaron.
-
-### 3\. Mantén tu repositorio limpio
-
-Utiliza el archivo **.gitignore** para evitar que archivos innecesarios se incluyan en el repositorio, manteniendo así un entorno de trabajo limpio y organizado.
-
-### 4\. Documenta tu código
-
-Asegúrate de documentar tu código y tus decisiones de diseño para facilitar la colaboración y el mantenimiento del proyecto a largo plazo.
-
