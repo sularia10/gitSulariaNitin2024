@@ -39,26 +39,62 @@ Por último, exploré el proyecto desde el terminal, utilizando comandos de Linu
 ### Captura 2
 ![2](../foto/grhr.png)
 
+### Captura 27
+![27](../foto/qbtf.png)
+
+### Captura 15
+![15](../foto/iocp.png)
+
+### Captura 21
+![21](../foto/nmoa.png)
+
+### Captura 26
+![26](../foto/plug.png)
+
 ### Captura 3
 ![3](../foto/awdz.png)
 
-### Captura 4
-![4](../foto/aycp.png)
+### Captura 12
+![12](../foto/hslr.png)
 
-### Captura 5
-![5](../foto/cbzx.png)
-
-### Captura 6
-![6](../foto/cmnd.png)
-
-### Captura 7
-![7](../foto/ejto.png)
+### Captura 9
+![9](../foto/gehs.png)
 
 ### Captura 8
 ![8](../foto/ftoj.png)
 
-### Captura 9
-![9](../foto/gehs.png)
+### Captura 31
+![31](../foto/vtjf.png)
+
+### Captura 6
+![6](../foto/cmnd.png)
+
+### Captura 24
+![24](
+
+### Captura 20
+![20](../foto/lrmn.png)
+
+### Captura 32
+![32](../foto/wtci.png)
+
+### Captura 5
+![5](../foto/cbzx.png)
+
+
+
+### Captura 4
+![4](../foto/aycp.png)
+
+
+
+
+
+### Captura 7
+![7](../foto/ejto.png)
+
+
+
 
 ### Captura 10
 ![10](../foto/grhr.png)
@@ -66,8 +102,7 @@ Por último, exploré el proyecto desde el terminal, utilizando comandos de Linu
 ### Captura 11
 ![11](../foto/hhwg.png)
 
-### Captura 12
-![12](../foto/hslr.png)
+
 
 ### Captura 13
 ![13](../foto/ihtl.png)
@@ -75,8 +110,7 @@ Por último, exploré el proyecto desde el terminal, utilizando comandos de Linu
 ### Captura 14
 ![14](../foto/immk.png)
 
-### Captura 15
-![15](../foto/iocp.png)
+
 
 ### Captura 16
 ![16](../foto/jayb.png)
@@ -90,29 +124,19 @@ Por último, exploré el proyecto desde el terminal, utilizando comandos de Linu
 ### Captura 19
 ![19](../foto/lktr.png)
 
-### Captura 20
-![20](../foto/lrmn.png)
 
-### Captura 21
-![21](../foto/nmoa.png)
+
+
 
 ### Captura 22
 ![22](../foto/nssm.png)
 
-### Captura 23
-![23](../foto/okgm.png)
 
-### Captura 24
 ![24](../foto/ajok.png)
 
 ### Captura 25
 ![25](../foto/lbhn.png)
 
-### Captura 26
-![26](../foto/plug.png)
-
-### Captura 27
-![27](../foto/qbtf.png)
 
 ### Captura 28
 ![28](../foto/rawn.png)
@@ -123,11 +147,6 @@ Por último, exploré el proyecto desde el terminal, utilizando comandos de Linu
 ### Captura 30
 ![30](../foto/rprh.png)
 
-### Captura 31
-![31](../foto/vtjf.png)
-
-### Captura 32
-![32](../foto/wtci.png)
 
 ### Captura 33
 ![33](../foto/xpxf.png)
@@ -143,3 +162,6 @@ Por último, exploré el proyecto desde el terminal, utilizando comandos de Linu
 
 ### Captura 37
 ![37](../foto/zpqe.png)
+
+### Captura 23
+![23](../foto/okgm.png)
