@@ -39,129 +39,111 @@ Por último, exploré el proyecto desde el terminal, utilizando comandos de Linu
 ### Captura 2
 ![2](../foto/grhr.png)
 
-### Captura 27
-![27](../foto/qbtf.png)
-
-### Captura 15
-![15](../foto/iocp.png)
-
-### Captura 21
-![21](../foto/nmoa.png)
-
-### Captura 26
-![26](../foto/plug.png)
-
 ### Captura 3
-![3](../foto/awdz.png)
+![3](../foto/qbtf.png)
 
-### Captura 12
-![12](../foto/hslr.png)
+### Captura 4
+![4](../foto/iocp.png)
+
+### Captura 5
+![5](../foto/nmoa.png)
+
+### Captura 6
+![6](../foto/plug.png)
+
+### Captura 7
+![7](../foto/awdz.png)
+
+### Captura 8
+![8](../foto/hslr.png)
 
 ### Captura 9
 ![9](../foto/gehs.png)
 
-### Captura 8
-![8](../foto/ftoj.png)
-
-### Captura 31
-![31](../foto/vtjf.png)
-
-### Captura 6
-![6](../foto/cmnd.png)
-
-### Captura 24
-![24](
-
-### Captura 20
-![20](../foto/lrmn.png)
-
-### Captura 32
-![32](../foto/wtci.png)
-
-### Captura 5
-![5](../foto/cbzx.png)
-
-
-
-### Captura 4
-![4](../foto/aycp.png)
-
-
-
-
-
-### Captura 7
-![7](../foto/ejto.png)
-
-
-
-
 ### Captura 10
-![10](../foto/grhr.png)
+![10](../foto/ftoj.png)
 
 ### Captura 11
-![11](../foto/hhwg.png)
+![11](../foto/vtjf.png)
 
+### Captura 12
+![12](../foto/cmnd.png)
 
 
 ### Captura 13
-![13](../foto/ihtl.png)
+![13](../foto/lrmn.png)
 
 ### Captura 14
-![14](../foto/immk.png)
+![14](../foto/wtci.png)
 
+### Captura 15
+![15](../foto/cbzx.png)
 
 
 ### Captura 16
-![16](../foto/jayb.png)
+![16](../foto/aycp.png)
 
 ### Captura 17
-![17](../foto/jocv.png)
+![17](../foto/ejto.png)
 
 ### Captura 18
-![18](../foto/kqnu.png)
+![18](../foto/grhr.png)
 
 ### Captura 19
-![19](../foto/lktr.png)
+![19](../foto/hhwg.png)
 
+### Captura 20
+![20](../foto/ihtl.png)
 
-
-
+### Captura 21
+![21](../foto/immk.png)
 
 ### Captura 22
-![22](../foto/nssm.png)
-
-
-![24](../foto/ajok.png)
-
-### Captura 25
-![25](../foto/lbhn.png)
-
-
-### Captura 28
-![28](../foto/rawn.png)
-
-### Captura 29
-![29](../foto/rjur.png)
-
-### Captura 30
-![30](../foto/rprh.png)
-
-
-### Captura 33
-![33](../foto/xpxf.png)
-
-### Captura 34
-![34](../foto/yqog.png)
-
-### Captura 35
-![35](../foto/yxsv.png)
-
-### Captura 36
-![36](../foto/zfcu.png)
-
-### Captura 37
-![37](../foto/zpqe.png)
+![22](../foto/jayb.png)
 
 ### Captura 23
-![23](../foto/okgm.png)
+![23](../foto/jocv.png)
+
+### Captura 24
+![24](../foto/kqnu.png)
+
+### Captura 25
+![25](../foto/lktr.png)
+
+### Captura 26
+![26](../foto/nssm.png)
+
+### Captura 27
+![27](../foto/ajok.png)
+
+### Captura 28
+![28](../foto/lbhn.png)
+
+
+### Captura 29
+![29](../foto/rawn.png)
+
+### Captura 30
+![30](../foto/rjur.png)
+
+### Captura 31
+![31](../foto/rprh.png)
+
+
+### Captura 32
+![32](../foto/xpxf.png)
+
+### Captura 33
+![33](../foto/yqog.png)
+
+### Captura 34
+![34](../foto/yxsv.png)
+
+### Captura 35
+![35](../foto/zfcu.png)
+
+### Captura 36
+![36](../foto/zpqe.png)
+
+### Captura 37
+![37](../foto/okgm.png)
